@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moorw.pages.dev/sitemap.xml
